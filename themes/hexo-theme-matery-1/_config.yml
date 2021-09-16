@@ -61,7 +61,7 @@ dream:
   enable: true
   showTitle: true
   title: 我们的愿景
-  text: 成就他人才能成就自己
+  text: 让好面料最快送达
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -91,7 +91,7 @@ video:
   showTitle: true
   title: 精彩视频
   url: # https://v.qq.com/x/page/h0033ytxkhw.html # url和iframeUrl其中一个必填
-  iframeUrl: //v.qq.com/txp/iframe/player.html?vid=h0033ytxkhw #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
+  iframeUrl: //v.qq.com/txp/iframe/player.html?vid=g0034ova87m #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
   pic:
   thumbnails:
   height: 400 # 如：400
@@ -541,8 +541,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 为中小面料商找到低价面料
-    - 成就他人才能成就自己
+    - 优质面料
+    - 等你选购
 
 # 手机二级菜单.
 navMenu:
