@@ -84,6 +84,7 @@ music:
   listFolded: true  # 列表默认折叠
   hideLrc: true     # 隐藏歌词
 
+
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
